@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Podcast Application
 
@@ -9,7 +9,6 @@ First, you will need to install all required packages in package.json files for 
 Run the following command from both **_frontend_** folder and **_server_** folder:
 
 ```bash
-# using npm
 npm install
 ```
 
@@ -51,6 +50,6 @@ If everything is set up _correctly_, you should see the application running in y
 
 Use the following account to login and test the application:
 
-> **Email**: test@email.com
+> **Email**: `test@email.com`
 
-> **Password**: @$12Test
+> **Password**: `@$12Test`
